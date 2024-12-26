@@ -17,7 +17,7 @@ echo ""
 echo ""
 echo ""
 #sub=$(</dev/urandom tr -dc a-z0-9 | head -c3)
-read -rp "Input Domain Name. Example ( Angga-Store ): " -e sub
+read -rp "Input Domain Name. Example ( CX ): " -e sub
 DOMAIN=akunpremium212.my.id
 SUB_DOMAIN=${sub}.akunpremium212.my.id
 CF_ID=anggaadi49876@gmail.com
